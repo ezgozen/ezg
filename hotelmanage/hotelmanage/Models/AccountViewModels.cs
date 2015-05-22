@@ -6,7 +6,7 @@ namespace hotelmanage.Models
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
-        [Display(Name = "Email")]
+        [Display(Name = "Email123")]
         public string Email { get; set; }
     }
 
